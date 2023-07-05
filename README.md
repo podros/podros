@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @podros - means Travel in Polish
+- 👋 Hi, I’m @podroz - means Travel in Polish
 - 👀 I’m interested in ... building the right solution for the right problem
 - 🌱 I’m currently learning ... about various optimal of an algorithm
 - 💞️ I’m looking to collaborate on ... software development
